@@ -7,7 +7,7 @@ Automatically register reservation post emails for delivery URLs and survey URLs
 ```shell
 pip3 install selenium
 # ドライバーはChomeのバージョンと併せてインストールすること
-pip3 install chromedriver-binary
+pip3 install chromedriver-binary==??.?.????.?.??
 ```
 
 ## 環境設定

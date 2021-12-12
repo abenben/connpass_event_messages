@@ -16,6 +16,7 @@ cfg = configparser.ConfigParser()
 # test.confから設定を読む
 cfg.read("./config.ini", encoding='utf-8')
 
+# イベント開催日
 EVENT_DATE = dt.strptime(cfg["event"]["date"], '%Y/%m/%d')
 
 # イベントURL

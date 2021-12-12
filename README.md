@@ -12,9 +12,8 @@ pip3 install chromedriver-binary
 
 ## 環境設定
 
-```python
-
-```
+設定情報は  ~/config.ini ファイルに格納する必要があります。
+ご自身のconnpassのユーザー/パスワード、コミュニティ名、イベントの各種情報をエディタを使ってを編集してください。
 
 ## 実行方法
 
